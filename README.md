@@ -10,7 +10,7 @@ C:\Users\User\Documents\Visual Studio 2019\nVidia Project
 
 ## Launch Visual Studio 2019
 
-![VS Studio 2019](LauchVS.PNG "Launch Visual Studio 2019")
+<img src="LauchVS.PNG" width="150">
 
 Then look for deviceQuery_vs2019.sln
 
