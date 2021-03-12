@@ -18,7 +18,7 @@ Then look for deviceQuery_vs2019.sln
 
 Click to open deviceQuery.cpp file in Solution Explorer
 
-<img src="Opencpp" width="450">
+<img src="Opencpp.PNG" width="450">
 
 Notice < helper_cuda.h> is underlined in red.  The pciture doesn't show the actual red underline because I had already build the solution.
 
@@ -26,7 +26,7 @@ Notice < helper_cuda.h> is underlined in red.  The pciture doesn't show the actu
 
 Right click the project name deviceQuery in Solution Explorer and go all the way down to the bottom and select Properties
 
-<img src="properties.PNG" width="450">
+<img src="properties2.PNG" width="450">
 
 This will appear
 
